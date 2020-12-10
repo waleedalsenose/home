@@ -3,7 +3,7 @@
 
 ***
 * [Week 0](https://code-sudan.github.io/home/curriculum/0/) Scratch 😺
-* [Week 1](https://code-sudan.github.io/homecurriculum/1/) C
+* [Week 1](https://code-sudan.github.io/home/curriculum/1/) C
 * [Week 2](https://code-sudan.github.io/home/curriculum/2/) Arrays
 * [Week 3](https://code-sudan.github.io/home/curriculum/3/) Algorithms
 * [Week 4](https://code-sudan.github.io/home/curriculum/4/) Memory
