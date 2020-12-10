@@ -26,16 +26,16 @@ title: Useful Links
  * [For Windows](http://calendar.google.com/calendar/)
  
 **Meeting Link**
- * Download Jitsi App [Google Play](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=en&gl=US), [ApkPure](https://apkpure.com/jitsi-meet/org.jitsi.meet)
- * [Meeting Link Jitsi](https://meet.jit.si/Code_Sudan)
+ * Download Google Calendar App [Google Play](https://play.google.com/store/apps/details?id=com.google.android.calendar), [ApkPure](https://apkpure.com/google-calendar/com.google.android.calendar)
+ * [Meeting Link ](https://meet.google.com/vut-qsnc-szg)
 
 
 <!-- الرابط بتاع الكلالندر ممكن يضاف هنا 👇 -->
-**[Code_Sudan GadUniv Invitation for Google Calendar](https://calendar.google.com/calendar/u/0/r?cid=Y19iYjh0YjluYWJqYmhvM2l1MWNhOXVycDQ5a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**
+**[Code_Sudan GadUniv Invitation for Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y19iYjh0YjluYWJqYmhvM2l1MWNhOXVycDQ5a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**
 
 <!-- الرابط بتاع الحضور ممكن يضاف هنا 👇 -->
 **[Code_Sudan GadUniv  Attendance Sheet](https://docs.google.com/spreadsheets/d/1ZVj6vRhfdZOYzdmRzdXCGhtm8gyECqAI1Icy5abM3Uw/edit?usp=sharing)**
 
 <!-- الرابط بتاع قناة اليوتيوب حا يضاف هنا 👇 -->
-**[Code_Sudan GadUniv YouTube Playlist](https://www.youtube.com/playlist?list=PLdmE6s5HCPZ_-EOIGPSmkrtjka_ozd7wr)**
+**[Code_Sudan GadUniv YouTube Playlist](https://www.youtube.com/playlist?list=PLdmE6s5HCPZ81oA14MgjDX6FDWSDMw6ky)**
 
