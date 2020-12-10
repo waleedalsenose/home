@@ -32,7 +32,7 @@ title: week 1
 
 [Mario](https://lab.cs50.io/code-sudan/labs/main/pset1/mario/less)
 
-[Cash](https://lab.cs50.io/code-sudan/labs/main//pset1/cash)
+[Cash](https://lab.cs50.io/code-sudan/labs/main/pset1/cash)
 
 ## Problem Set 1 Review 
 <div class="box" >PSET1 Review  <iframe src="https://www.youtube.com/embed/E2PrBmlfig4"></iframe></div>
