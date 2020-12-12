@@ -34,7 +34,8 @@ title: Useful Links
 **[Code_Sudan GadUniv Invitation for Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y19iYjh0YjluYWJqYmhvM2l1MWNhOXVycDQ5a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**
 
 <!-- الرابط بتاع الحضور ممكن يضاف هنا 👇 -->
-**[Code_Sudan GadUniv  Attendance Sheet](https://docs.google.com/spreadsheets/d/1ZVj6vRhfdZOYzdmRzdXCGhtm8gyECqAI1Icy5abM3Uw/edit?usp=sharing)**
+**[Code_Sudan GadUniv  Attendance Sheet](https://docs.google.com/spreadsheets/d/1AiMtTMKiaL7yRnIW4Iy99aJoMLviKXgMheNR5N_kBOY/edit?usp=sharing
+)**
 
 <!-- الرابط بتاع قناة اليوتيوب حا يضاف هنا 👇 -->
 **[Code_Sudan GadUniv YouTube Playlist](https://www.youtube.com/playlist?list=PLdmE6s5HCPZ81oA14MgjDX6FDWSDMw6ky)**
