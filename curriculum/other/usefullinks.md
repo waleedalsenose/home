@@ -40,3 +40,5 @@ title: Useful Links
 <!-- الرابط بتاع قناة اليوتيوب حا يضاف هنا 👇 -->
 **[Code_Sudan GadUniv YouTube Playlist](https://www.youtube.com/playlist?list=PLdmE6s5HCPZ81oA14MgjDX6FDWSDMw6ky)**
 
+**[Links To Sign For Gmail+Github+Scratch+CMD](https://docs.google.com/document/d/1sZwst5ftrVUzZWw8xMfWFgLRa8USon2240se2mijNrk/edit?usp=sharing)**
+
