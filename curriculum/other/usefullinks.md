@@ -51,6 +51,7 @@ title: Useful Links
 <!-- الرابط بتاع الحضور ممكن يضاف هنا 👇 -->
 * [Code_Sudan Foundation Program Patch4  Attendance Sheet](https://docs.google.com/spreadsheets/d/19dV4LMc6w8rEJx83iLefHciFrUUQur5DuGE-57WMLgo/edit?usp=sharing)
 
+<!--dsgd -->
 <!-- الرابط بتاع قناة اليوتيوب حا يضاف هنا 👇 -->
 * [Code_Sudan Foundation Program Patch4 YouTube Playlist](https://www.youtube.com/playlist?list=PLdmE6s5HCPZ_-EOIGPSmkrtjka_ozd7wr)
 
