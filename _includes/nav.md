@@ -1,8 +1,7 @@
 
 * [Usful Links](https://code-sudan.github.io/home/curriculum/other/usefullinks/)
 * [Signup(Gmail+Github)](https://code-sudan.github.io/home/curriculum/other/Signup(Gmail+Github)/)
-* [Calendar Foundation Program Al-Gadarif](<iframe src="https://calendar.google.com/calendar/embed?src=c_bb8tb9nabjbho3iu1ca9urp49k%40group.calendar.google.com&ctz=Africa%2FKhartoum" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>)
-
+* [Calendar Foundation Program Al-Gadarif](https://code-sudan.github.io/home/curriculum/other/usefullinks/)
 
 ***
 * [Week 0](https://code-sudan.github.io/home/curriculum/0/) Scratch 😺
