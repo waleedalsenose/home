@@ -1,7 +1,7 @@
 
 * [Usful Links](https://code-sudan.github.io/home/curriculum/other/usefullinks/)
 * [Signup(Gmail+Github)](https://code-sudan.github.io/home/curriculum/other/Signup(Gmail+Github)/)
-* [Calendar Foundation Program Al-Gadarif](https://code-sudan.github.io/home/curriculum/other/usefullinks/)
+* [Calendar Foundation Program Al-Gadarif](https://code-sudan.github.io/home/curriculum/other/FoundationProgramAl-GadarifCalendar/)
 
 ***
 * [Week 0](https://code-sudan.github.io/home/curriculum/0/) Scratch 😺
