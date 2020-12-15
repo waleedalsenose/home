@@ -11,7 +11,3 @@ title: Signup (Gmail+Github)
 **[Register at Scratch Website](https://youtu.be/PLU071G5GYI)**
 
 **[How to use CMD](https://www.youtube.com/watch?v=A3nwRCV-bTU)**
-
-
-
-
