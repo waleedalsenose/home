@@ -20,7 +20,7 @@ title: More Resources & Web Editors
 
 **[Web Development Roadmaps](https://www.w3schools.com/whatis/default.asp)**
 
-# More Resources
+# Web Editors
 
 **[W3Schools Online Code Editor](https://www.w3schools.com/tryit/default.asp)**
 
