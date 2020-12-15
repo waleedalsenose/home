@@ -1,9 +1,8 @@
 ***
 [Usful Links](https://code-sudan.github.io/home/curriculum/other/usefullinks/)
-
 ***
 [Signup(Gmail+Github)](https://code-sudan.github.io/home/curriculum/other/Signup(Gmail+Github)/)
-***
+
 * [Week 0](https://code-sudan.github.io/home/curriculum/0/) Scratch 😺
 * [Week 1](https://code-sudan.github.io/home/curriculum/1/) C
 * [Week 2](https://code-sudan.github.io/home/curriculum/2/) Arrays
