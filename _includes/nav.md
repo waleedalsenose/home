@@ -13,6 +13,7 @@
 * [Week 6](https://code-sudan.github.io/home/curriculum/6/) Python  🐍
 * [Week 7](https://code-sudan.github.io/home/curriculum/7/) SQL
 * [Week 8](https://code-sudan.github.io/home/curriculum/8/) Information 📚
+* [More Resources](https://code-sudan.github.io/home/curriculum/other/MoreResources/)
 
 
 
