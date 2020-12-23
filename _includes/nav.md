@@ -1,4 +1,4 @@
-
+* [Guidelines](https://code-sudan.github.io/home/curriculum/other/guidelines/)
 * [Usful Links](https://code-sudan.github.io/home/curriculum/other/usefullinks/)
 * [Signup(Gmail+Github)](https://code-sudan.github.io/home/curriculum/other/Signup(Gmail+Github)/)
 * [GadUni Calendar](https://code-sudan.github.io/home/curriculum/other/FoundationProgramAl-GadarifCalendar/)
