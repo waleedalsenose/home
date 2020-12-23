@@ -1,5 +1,5 @@
 ---
-title: Useful Links
+title: Guidelines
 ---
 
 # Useful links and reference you need in the program
