@@ -35,7 +35,7 @@ title: Guidelines
 <div class="box" >How to sign up and verify your email for Github  <iframe src="https://www.youtube.com/embed/wg8ETxzMhKE"></iframe></div>
 <div class="box" >Register at Scratch Website <iframe src="https://www.youtube.com/embed/PLU071G5GYI"></iframe></div>
 <div class="box" >How to use Google Calendar  <iframe src="https://www.youtube.com/embed/1EjJ55BODn0"></iframe></div>
-<div class="box" >How To Sign Up to edx  <iframe src="https://www.youtube.com/embed/2IPVZVc-Sts"></iframe></div>
+<div class="box" >How to Sign Up in edx  <iframe src="https://www.youtube.com/embed/2IPVZVc-Sts"></iframe></div>
 
 
 
