@@ -24,7 +24,18 @@ title: Guidelines
 * [ Submit pset0 ](https://submit.cs50.io/upload/cs50/problems/2020/x/scratch)
 
 
+
 ---------------------------------
+
+
+
+# You can also watch this videos 
+
+<div class="box" >How To Sign Up For A Google/Gmail Account  <iframe src="https://www.youtube.com/embed/SR7rvc2RRFM"></iframe></div>
+<div class="box" >How to sign up and verify your email for Github  <iframe src="https://www.youtube.com/embed/wg8ETxzMhKE"></iframe></div>
+<div class="box" >Register at Scratch Website <iframe src="https://www.youtube.com/embed/PLU071G5GYI"></iframe></div>
+<div class="box" >How to use Google Calendar  <iframe src="https://www.youtube.com/embed/1EjJ55BODn0"></iframe></div>
+<div class="box" >How To Sign Up to edx  <iframe src="https://www.youtube.com/embed/2IPVZVc-Sts"></iframe></div>
 
 
 
