@@ -2,56 +2,35 @@
 title: Guidelines
 ---
 
-# Useful links and reference you need in the program
+# Guidelines to help you  start the course 
 
-**Download  browser**
-* [opera browser For Windows](https://www.opera.com/computer/thanks?ni=stable&os=windows)
 
-* [chrome browser For Windows](https://www.google.com/chrome/?brand=CHBD&brand=BNSD&gclid=Cj0KCQiA5bz-BRD-ARIsABjT4njdLxr4cA0R8gmosvhBpuOmW6KysxNPsr0XoiwnydxR3ZUnKtrXtLUaAmctEALw_wcB&gclsrc=aw.ds)
+* [1. If you dont have gmail account create one :](https://accounts.google.com/signup/v2?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp)
+
+* [2. Sign in Google Calendar with your gmail account :](https://www.google.com/calendar)
+
+* [3. Sign up on edx and inroll in CS50x Course :](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/)
+
+* [4. Sign up to GitHub :](https://github.com/join)
+
+* [5. Regestir in Scratch :](https://scratch.mit.edu/join)
+
+* [6. Watch week0 video :](https://foundation.codesudan.io/curriculum/0/)
+
+* [7. Watch pset0 video :](https://youtu.be/E0CKzsv_IzI)
+
+* [8. Study pset0 specifications :](https://foundation.codesudan.io/curriculum/0/pset0/)
+
+* [9. Submit pset0 :](https://submit.cs50.io/upload/cs50/problems/2020/x/scratch)
+
 
 ---------------------------------
-* [VPN APP For Windows](https://www.softether-download.com/)
 
-**[CS50 online course on edX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/)**
 
-**Download Slack**
 
-  * [For Windows](https://slack.com/intl/en-ke/downloads/windows)
-  * For Android [Google Play](https://play.google.com/store/apps/details?id=com.Slack&hl=en_US), [ApkPure](https://apkpure.com/slack/com.Slack)
-  * [For IOS](https://apps.apple.com/us/app/slack/id618783545)
-  
-**Download Google Calendar**
-
- * For Android [Google Play](https://play.google.com/store/apps/details?id=com.google.android.calendar), [ApkPure](https://apkpure.com/google-calendar/com.google.android.calendar)
- * [For Windows](http://calendar.google.com/calendar/)
  
-**Google Meet**
- * Download Google Meet App [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=en_US&gl=US), [ApkPure](https://apkpure.com/google-meet-secure-video-meetings/com.google.android.apps.meetings)
- * [Meeting Link Google meet](https://meet.google.com/vut-qsnc-szg)
-
-**Code_Sudan GadUnivusefullinks**
-
-<!-- الرابط بتاع الكلالندر ممكن يضاف هنا 👇 -->
-* [Code_Sudan GadUniv Invitation for Google Calendar](https://calendar.google.com/calendar/u/0/r?cid=Y19iYjh0YjluYWJqYmhvM2l1MWNhOXVycDQ5a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
-<!-- الرابط بتاع الحضور ممكن يضاف هنا 👇 -->
-* [Code_Sudan GadUniv  Attendance Sheet](https://docs.google.com/spreadsheets/d/1AiMtTMKiaL7yRnIW4Iy99aJoMLviKXgMheNR5N_kBOY/edit?usp=sharing)
-
-<!-- الرابط بتاع قناة اليوتيوب حا يضاف هنا 👇 -->
-* [Code_Sudan GadUniv YouTube Playlist](https://www.youtube.com/playlist?list=PLdmE6s5HCPZ81oA14MgjDX6FDWSDMw6ky)
 
 
 
 
-**Code_Sudan Foundation Program Patch4 usefullinks**
-
-<!-- الرابط بتاع الكلالندر ممكن يضاف هنا 👇 -->
-* [Code_Sudan Foundation Program Patch4 Invitation for Google Calendar](https://calendar.google.com/calendar/u/2?cid=Y19wZnIybXR0cjl2amNtYXZtOXNyaWJyajNtY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
-<!-- الرابط بتاع الحضور ممكن يضاف هنا 👇 -->
-* [Code_Sudan Foundation Program Patch4  Attendance Sheet](https://docs.google.com/spreadsheets/d/19dV4LMc6w8rEJx83iLefHciFrUUQur5DuGE-57WMLgo/edit?usp=sharing)
-
-
-<!-- الرابط بتاع قناة اليوتيوب حا يضاف هنا 👇 -->
-* [Code_Sudan Foundation Program Patch4 YouTube Playlist](https://www.youtube.com/playlist?list=PLdmE6s5HCPZ_-EOIGPSmkrtjka_ozd7wr)
 
