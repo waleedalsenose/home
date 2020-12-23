@@ -2,7 +2,7 @@
 title: Guidelines
 ---
 
-# Guidelines to help you  start the course 
+# Guidelines help you to start the course 
 
 
 * [ If you dont have gmail account create one ](https://accounts.google.com/signup/v2?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp)
