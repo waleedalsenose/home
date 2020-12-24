@@ -18,23 +18,6 @@ It is a website project for the Zaytoona Educational Center, the site displays i
 
 **Patch1 Projects**
 
-<style>
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width: 80%;
-}
-
-.card:hover {
-  box-shadow: 0 8px 30px 0 rgba(0,0,0,0.2);
-}
-
-.container {
-  padding: 2px 16px;
-}
-</style>
-
-
 <h1>Patch1 Projects</h1>
 
 <div class="card">
