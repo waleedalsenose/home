@@ -33,8 +33,7 @@ It is a website project for the Zaytoona Educational Center, the site displays i
   padding: 2px 16px;
 }
 </style>
-</head>
-<body>
+
 
 <h1>Patch1 Projects</h1>
 
