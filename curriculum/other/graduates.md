@@ -17,15 +17,6 @@ It is a website project for the Zaytoona Educational Center, the site displays i
 
 
 
-    <div class="card">
-      <img src="https://i.ibb.co/p2QZK97/download.jpg" alt="Avatar" style="width:100%">
-      <div class="name">
-      <h4><b><i class='fas fa-user-graduate' style='font-size:20px;color:black'></i> Eltayeb Hassan - Mohamed Burma </b><h4>
-       </div>
-       
-      <div class="container">
-        <p>It is a website project for the Zaytoona Educational Center, the site displays information about the center and adds new courses, as well as the ability to register for new students and follow up the courses for each student.</p> 
-      </div>
-    </div>
+   
 
 
