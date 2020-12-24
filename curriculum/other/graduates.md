@@ -1,7 +1,7 @@
 # Graduates
 
 **Patch1 Projects**
-
+<link href="style. css" rel="stylesheet"></link> 
 <div class="card">
   
   <h1><b>Zaytoona Center Project</b></h1> 
