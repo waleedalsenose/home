@@ -15,3 +15,10 @@ It is a website project for the Zaytoona Educational Center, the site displays i
     <a href="#"><i class="fa fa-user"></i> Eltayeb Hassan</a> - <a href="#"><i class="fa fa-user"></i> Mohamed Burma</a>
   </div>
 </div>
+
+
+<div class="box" >Zaytona project <iframe src="#"></iframe></div>
+<div class="box" >project 2 <iframe src="#"></iframe></div>
+<div class="box" >project 3 <iframe src="#"></iframe></div>
+<div class="box" >project 4 <iframe src="#"></iframe></div>
+
