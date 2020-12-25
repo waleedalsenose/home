@@ -16,7 +16,7 @@ It is a website project for the Zaytoona Educational Center, the site displays i
 </div>
 
 
-<div class="card">
+<div class="card-img">
       <img src="https://i.ibb.co/p2QZK97/download.jpg" alt="Avatar" style="width:100%">
       <div class="name">
       <h4><b><i class='fas fa-user-graduate' style='font-size:20px;color:black'></i> Eltayeb Hassan - Mohamed Burma </b><h4>
