@@ -9,7 +9,7 @@ title: week 3
 
 - Lecture
   - Try it in Arabic
-    [CS50 2019 Lecture 3 Algorithms مترجم بالعربي](https://www.youtube.com/embed/L8AmnvKj_zY)
+    [CS50 2019 Lecture 3 Algorithms مترجم بالعربي](https://www.youtube.com/embed/jXKaybgEISI)
   - Preview
      [Week3 Review - Code_ Sudan Program](https://www.youtube.com/embed/2FkB-enZzrc)
 - Slides
