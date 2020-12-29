@@ -9,7 +9,7 @@ title: week 1
 
 - Lecture
   - Try it in Arabic
-    [CS50 2019 Lecture 1 C مترجم بالعربي](https://www.youtube.com/embed/jXKaybgEISI)
+    [CS50 2019 Lecture 1 C مترجم بالعربي](https://www.youtube.com/embed/L8AmnvKj_zY)
   - Preview
      [Week1 Review - Code_ Sudan Program](https://www.youtube.com/embed/F-qbaeSJHAE)
 - Slides
