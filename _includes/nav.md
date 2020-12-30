@@ -3,7 +3,7 @@
 * [Signup(Gmail+Github)](https://code-sudan.github.io/home/curriculum/other/Signup(Gmail+Github)/)
 * [GadUni Calendar](https://code-sudan.github.io/home/curriculum/other/FoundationProgramAl-GadarifCalendar/)
 
-* [Period](https://code-sudan.github.io/home///)
+* [Period](https://code-sudan.github.io/home/periods/1.md/)
 
 ***
 * [Week 0](https://code-sudan.github.io/home/curriculum/0/) Scratch 😺
