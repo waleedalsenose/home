@@ -7,7 +7,7 @@ title: Code_Sudan Batches
 <div class="container">
   <div class="row">
 
-  <div class="col-md-4">   
+  <div class="col-md-12">   
       <div class="card text-center">
         <font size="150%"><i class="fa fa-user"></i></font>
           <div class="card-body">
@@ -19,7 +19,7 @@ title: Code_Sudan Batches
 <div class="container">
   <div class="row">
 
-  <div class="col-md-4">   
+  <div class="col-md-12">   
       <div class="card text-center">
         <font size="150%"><i class="fa fa-user"></i></font>
           <div class="card-body">
