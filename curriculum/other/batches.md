@@ -21,7 +21,7 @@ title: Code_Sudan Batches
 
   <div class="col-md-12">  
       <div class="card text-center">
-        <font size="150%"><a href="https://ibb.co/ypTh01b"><img src="https://i.ibb.co/68hvYxf/Code-Sudan-Logos-2-removebg-previesdfasdw.png></a></font>
+        <font size="150%"><a href="https://ibb.co/hgPd5ZB"><img src="https://i.ibb.co/dfdp9LP/codelogo.png></a></font>
           <div class="card-body">
               <h4 class="card-title">Code_Sudan Batch4</h4>
           </div>
