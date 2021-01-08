@@ -12,6 +12,7 @@ title: week 6
     [CS50 2019 Lecture 6 Python مترجم بالعربي](https://www.youtube.com/embed/CRR5_q9t0FU)
   - Preview
      [Week6 Review - Code_ Sudan Program](https://www.youtube.com/embed/8wF2OIIBQUo)
+- [Notes](https://cs50.harvard.edu/x/2020/notes/6/)
 - Slides
   - <a href="https://docs.google.com/presentation/d/1XXKDd6XSXjuAmAZKGAX-_PtYUmoHaJ25j1zsJ17lK2E/edit?usp=sharing">Google Slides</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/6/lecture6.pdf">PDF</a>
