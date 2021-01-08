@@ -12,6 +12,7 @@ title: week 1
     [CS50 2019 Lecture 1 C مترجم بالعربي](https://www.youtube.com/embed/L8AmnvKj_zY)
   - Preview
      [Week1 Review - Code_ Sudan Program](https://www.youtube.com/embed/F-qbaeSJHAE)
+- [Notes](https://cs50.harvard.edu/x/2020/notes/1/#c)
 - Slides
   - <a href="https://docs.google.com/presentation/d/191XW0DHWlW6WmAhYuFUYnZKUlDx0N4u4Fp81AeW-uNs/edit?usp=sharing">Google Slides</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/1/lecture1.pdf">PDF</a>
