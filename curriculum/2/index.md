@@ -12,6 +12,7 @@ title: week 2
     [CS50 2019 Lecture 2 Arrays مترجم بالعربي](https://www.youtube.com/embed/dOucn3BPfZ8)
   - Preview
      [Week2 Review - Code_ Sudan Program](https://www.youtube.com/embed/F-qbaeSJHAE)
+- [Notes](https://cs50.harvard.edu/x/2020/notes/2/)
 - Slides
   - <a href="https://docs.google.com/presentation/d/1BPOm4VNOmlOLKzwOHPYR3FXEXLiJbOW3MSKdp1wMNnk/edit?usp=sharing">Google Slides</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/2/lecture2.pdf">PDF</a>
