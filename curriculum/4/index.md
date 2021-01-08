@@ -12,6 +12,7 @@ title: week 4
     [CS50 2019 Lecture 4 Memory مترجم بالعربي](https://www.youtube.com/embed/hI67W_nFjxw)
   - Preview
      [Week4 Review - Code_ Sudan Program](https://www.youtube.com/embed/rNWRKQKPN4U)
+- [Notes](https://cs50.harvard.edu/x/2020/notes/4/)
 - Slides
   - <a href="https://docs.google.com/presentation/d/15retFlVW_bH8MqEQHlcDQiFemMcRGUpHWn7VWQ4ftaE/edit?usp=sharing">Google Slides</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/4/lecture4.pdf">PDF</a>
