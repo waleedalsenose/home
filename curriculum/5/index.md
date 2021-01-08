@@ -12,6 +12,7 @@ title: week 5
     [CS50 2019 Lecture 5 Data Structures مترجم بالعربي](https://www.youtube.com/embed/ZntW_SLD4-I)
   - Preview
      [Week5 Review - Code_ Sudan Program](https://www.youtube.com/embed/4IvJVvL-5XY)
+- [Notes](https://cs50.harvard.edu/x/2020/notes/5/)
 - Slides
   - <a href="https://docs.google.com/presentation/d/1KMzq3bLe7g_O4JVYZ0lxuxHjShnIk54beO84-chYTig/edit?usp=sharing">Google Slides</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/5/lecture5.pdf">PDF</a>
