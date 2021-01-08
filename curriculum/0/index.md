@@ -11,6 +11,7 @@ title: Week 0
       [CS50 2019 Lecture 0 Computational Thinking, Scratch مترجم](https://www.youtube.com/embed/tC8z4RLWtFI)
   - Preview
       [Problem Set 0, 1, 2 Review - Code_ Sudan Program](https://www.youtube.com/embed/F-qbaeSJHAE)
+      
       [Notes](https://cs50.harvard.edu/x/2020/notes/0/)
 - Slides
   - <a href="https://docs.google.com/presentation/d/17wRd8ksO6QkUq906SUgm17AqcI-Jan42jkY-EmufxnE/edit?usp=sharing">Google Slides</a>
