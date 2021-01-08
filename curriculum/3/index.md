@@ -12,6 +12,7 @@ title: week 3
     [CS50 2019 Lecture 3 Algorithms مترجم بالعربي](https://www.youtube.com/embed/jXKaybgEISI)
   - Preview
      [Week3 Review - Code_ Sudan Program](https://www.youtube.com/embed/2FkB-enZzrc)
+- [Notes](https://cs50.harvard.edu/x/2020/notes/3/)
 - Slides
   - <a href="https://docs.google.com/presentation/d/17eT9MaZBUByTTlpkliT8kTg7AW1820xMIQg0HDd5NCk/edit?usp=sharing">Google Slides</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/3/lecture3.pdf">PDF</a>
