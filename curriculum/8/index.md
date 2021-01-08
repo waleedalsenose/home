@@ -12,6 +12,7 @@ title: week 8
     [CS50 2019 Lecture 8 مترجم بالعربي](https://www.youtube.com/embed/kIwEAUzznzo)
   - Preview
     [Code_ Sudan Program CS50 Week8 Review](https://www.youtube.com/embed/acUhrGTzixI)
+- [Notes](https://cs50.harvard.edu/x/2020/notes/8/)
 - Slides
   - <a href="https://docs.google.com/presentation/d/1tH5qsKb9Hc276JyUOg_6EgD-TTTMUEinvZJIuD2lA3s/edit?usp=sharing">Google Slides</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/8/lecture8.pdf">PDF</a> 
