@@ -4,7 +4,7 @@ title: week 6
 
 # Week 6
 
-<iframe src="https://www.youtube.com/embed/fL308_-Kbt0"></iframe>
+<iframe src="https://youtu.be/ZEQh45W_UDo"></iframe>
 
 
 - Lecture
