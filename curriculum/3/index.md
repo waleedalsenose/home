@@ -4,7 +4,7 @@ title: week 3
 
 # Week 3
 
-<iframe src="https://www.youtube.com/embed/fykrlqbV9wM"></iframe>
+<iframe src="https://youtu.be/gR6nycuZKlM"></iframe>
 
 
 - Lecture
