@@ -4,7 +4,7 @@ title: week 4
 
 # Week 4
 
-<iframe src="https://www.youtube.com/embed/cF6YkH-8vFk"></iframe>
+<iframe src="https://youtu.be/NKTfNv2T0FE"></iframe>
 
 
 - Lecture
