@@ -4,7 +4,7 @@ title: week 2
 
 # Week 2
 
-<iframe src="https://youtu.be/tI_tIZFyKBw"></iframe>
+<iframe src="https://www.youtube.com/embed/8PrOp9t0PyQ"></iframe>
 
 
 - Lecture
