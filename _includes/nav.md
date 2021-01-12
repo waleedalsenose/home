@@ -14,7 +14,9 @@
 * [Week 5](https://code-sudan.github.io/home/curriculum/5/) Data Structures
 * [Week 6](https://code-sudan.github.io/home/curriculum/6/) Python  🐍
 * [Week 7](https://code-sudan.github.io/home/curriculum/7/) SQL
-* [Week 8](https://code-sudan.github.io/home/curriculum/8/) Information 📚
+* [Week 8](https://code-sudan.github.io/home/curriculum/8/) HTML,CSS,JavaScript 
+* [Week 9]() Flask 
+* [Week 10]() Ethics
 * [More Resources](https://code-sudan.github.io/home/curriculum/other/MoreResources/)
 
 
