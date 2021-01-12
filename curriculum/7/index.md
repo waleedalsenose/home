@@ -4,7 +4,7 @@ title: week 7
 
 # Week 7
 
-<iframe src="https://www.youtube.com/embed/4IrUAqYKjIA"></iframe>
+<iframe src="https://youtu.be/SAmkH5WFQ-8"></iframe>
 
 
 - Lecture
