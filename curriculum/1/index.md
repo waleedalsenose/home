@@ -4,7 +4,7 @@ title: week 1
 
 # Week 1
 
-<iframe src="https://youtu.be/e9Eds2Rc_x8"></iframe>
+<iframe src="https://www.youtube.com/embed/e9Eds2Rc_x8"></iframe>
 
 
 - Lecture
