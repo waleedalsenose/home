@@ -4,7 +4,7 @@ title: week 8
 
 # Week 8
 
-<iframe src="https://www.youtube.com/embed/4IrUAqYKjIA"></iframe>
+<iframe src="https://www.youtube.com/embed/suzS0NWu8uQ"></iframe>
 
 
 - Lecture
