@@ -16,12 +16,8 @@ title: week 10
 - Slides
   - <a href="https://docs.google.com/presentation/d/1PGkigilY9bl0_1aUJAbxxmhkpdoOm-Duhtw03PzKz40/edit?usp=sharing">Google Slides</a>
   - <a href="https://cdn.cs50.net/2020/fall/lectures/10/lecture10.pdf">PDF</a> 
-<!-- - Source Code
-  - <a href="#">Index</a>
-  - <a href="#">PDF</a>
-  - <a href="#">Zip</a> -->
 
-## Problem Set 9
+## Problem Set 10
 
 [Final Project](#)
 
