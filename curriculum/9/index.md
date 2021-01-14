@@ -12,7 +12,7 @@ title: week 9
     [CS50 2020 Lecture 9 مترجم بالعربي](#)
   - Preview
     [Code_ Sudan Program CS50 Week9 Review](#)
-- [Notes](https://cs50.harvard.edu/x/2020/notes/8/)
+- [Notes](https://cs50.harvard.edu/x/2021/notes/9/)
 - Slides
   - <a href="#">Google Slides</a>
   - <a href="#">PDF</a> 
@@ -23,7 +23,7 @@ title: week 9
 
 ## Problem Set 9
 
-[Web](#)
+[Finance](#)
 
 ## Problem Set 9 Review 
 <!-- <div class="box" >Speller Review  <iframe src="https://www.youtube.com/embed/S_3NvpLje3M"></iframe></div>
