@@ -8,7 +8,8 @@ title: week 6
 
 
 - Lecture
-    [CS50 2020 Lecture 6 Python in CS50 Video Player](https://video.cs50.io/ZEQh45W_UDo?screen=A4eeGBU4qTE)
+
+  - [CS50 2020 Lecture 6 Python in CS50 Video Player](https://video.cs50.io/ZEQh45W_UDo?screen=A4eeGBU4qTE)
   - Try it in Arabic
     [CS50 2019 Lecture 6 Python مترجم بالعربي](https://www.youtube.com/embed/CRR5_q9t0FU)
   - Preview
