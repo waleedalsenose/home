@@ -34,7 +34,7 @@ title: week 6
 
 [DNA](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset6/DNA)
 
-## [Lab6](https://cs50.harvard.edu/x/2021/labs/6/)
+- [Lab6](https://cs50.harvard.edu/x/2021/labs/6/)
 ## Problem Set 6 Review 
 <!-- <div class="box" >Speller Review  <iframe src="https://www.youtube.com/embed/S_3NvpLje3M"></iframe></div>
 <div class="box" >Caesar Review  <iframe src="https://www.youtube.com/embed/3BcjXzNlT0w"></iframe></div> -->
