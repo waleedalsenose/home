@@ -4,7 +4,7 @@ title: Week 0
 
 # Week 0
 
- <iframe src="https://www.youtube.com/embed/jjqgP9dpD1k"></iframe> 
+ <iframe src="https://www.youtube.com/embed/YoXxevp1WRQ"></iframe> 
 
 - Lecture
   - Try it in Arabic
