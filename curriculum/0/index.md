@@ -5,6 +5,10 @@ title: Week 0
 # Week 0
 
  <iframe src="https://www.youtube.com/embed/YoXxevp1WRQ"></iframe> 
+ <iframe src="https://video.cs50.io/YoXxevp1WRQ"></iframe> 
+ 
+ 
+ https://video.cs50.io/YoXxevp1WRQ
 
 - Lecture
   - Try it in Arabic
