@@ -22,9 +22,11 @@ title: Week 0
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oWYf7puLylk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## CS50 Lab
+<div class="box" >  <iframe src="https://www.youtube.com/embed/wSk1KSDUEYA"></iframe></div>
+<div class="box" >   <iframe src="https://www.youtube.com/embed/wSk1KSDUEYA"></iframe></div>
 
-<div class="box" >  <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></iframe></div>
-<div class="box" >   <iframe src="https://www.youtube.com/embed/E0CKzsv_IzI"></iframe></div>
+## [Lab0](https://cs50.harvard.edu/x/2021/labs/1/)
+
   
 
    
