@@ -4,7 +4,7 @@ title: Week 0
 
 # Week 0
 
-<iframe src=https://www.youtube.com/embed/zYierUhIFNQ"></iframe> 
+<iframe src="https://www.youtube.com/embed/YoXxevp1WRQ"></iframe> 
 
 
 - <a href="https://cs50.harvard.edu/x/2021/notes/0/">Notes</a>
