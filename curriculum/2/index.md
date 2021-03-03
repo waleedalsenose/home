@@ -4,7 +4,7 @@ title: week 2
 
 # Week 2
 
-<iframe src="https://www.youtube.com/embed/8PrOp9t0PyQ"></iframe>
+<iframe src="https://www.youtube.com/embed/tI_tIZFyKBw"></iframe>
 
 
 - Lecture
@@ -32,6 +32,13 @@ title: week 2
 
 [caesar](https://lab.cs50.io/code-sudan/labs/main/pset2/caesar/)
 
+## Lecture
+
+<iframe src="https://www.youtube.com/embed/tI_tIZFyKBw"></iframe>
+
+## Lab 1
+
+[Scrabble](https://cs50.harvard.edu/x/2021/labs/2/#:~:text=Scrabble)
 
 ## Problem Set 2 Review 
 <div class="box" >Readability Review  <iframe src="https://www.youtube.com/embed/Eqx6_oVKADE"></iframe></div>
