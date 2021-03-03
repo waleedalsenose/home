@@ -34,7 +34,7 @@ title: week 2
 
 ## Lecture
 
-<iframe src="https://www.youtube.com/embed/tI_tIZFyKBw"></iframe>
+<iframe src="https://www.youtube.com/embed/lcRhPrGtJxw"></iframe>
 
 ## Lab 1
 
