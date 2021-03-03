@@ -35,9 +35,15 @@ title: week 1
 
 [Cash](https://lab.cs50.io/code-sudan/labs/main/pset1/cash)
 
-# lecture
+## Lecture
 
 <iframe src="https://www.youtube.com/embed/lcRhPrGtJxw"></iframe>
+
+## Lab 1
+
+[Hello](https://cs50.harvard.edu/x/2021/labs/1/hello/)
+
+[Population](https://cs50.harvard.edu/x/2021/labs/1/population/)
 
 ## Problem Set 1 Review 
 <div class="box" >PSET1 Review  <iframe src="https://www.youtube.com/embed/E2PrBmlfig4"></iframe></div>
