@@ -35,6 +35,10 @@ title: week 1
 
 [Cash](https://lab.cs50.io/code-sudan/labs/main/pset1/cash)
 
+# lecture
+
+<iframe src="https://www.youtube.com/embed/lcRhPrGtJxw"></iframe>
+
 ## Problem Set 1 Review 
 <div class="box" >PSET1 Review  <iframe src="https://www.youtube.com/embed/E2PrBmlfig4"></iframe></div>
 <div class="box" >Hello Review  <iframe src="https://www.youtube.com/embed/PlXUYylfwKg"></iframe></div>
