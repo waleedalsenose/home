@@ -11,7 +11,7 @@ title: Week 0
 - Slides
   - <a href="https://docs.google.com/presentation/d/17wRd8ksO6QkUq906SUgm17AqcI-Jan42jkY-EmufxnE/edit?usp=sharing">Google Slides</a>
   - <a href="https://cdn.cs50.net/2020/fall/lectures/0/lecture0.pdf">PDF</a>
-  - - <a href="https://cdn.cs50.net/2019/fall/lectures/0/lecture0.pdf">PDF</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/0/lecture0.pdf">PDF</a>
 - Source Code
   - <a href="https://cdn.cs50.net/2019/fall/lectures/0/src0/">Index</a>
   - <a href="https://scratch.mit.edu/studios/25128634/">Studio</a>
