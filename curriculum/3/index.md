@@ -4,7 +4,7 @@ title: week 3
 
 # Week 3
 
-<iframe src="https://www.youtube.com/embed/fykrlqbV9wM"></iframe>
+<iframe src="https://www.youtube.com/embed/gR6nycuZKlM"></iframe>
 
 
 - Lecture
@@ -35,6 +35,13 @@ title: week 3
 [Plurality](https://lab.cs50.io/code-sudan/labs/main/pset3/Plurality/)
 [RunOff](https://lab.cs50.io/code-sudan/labs/main/pset3/runoff/)
 
+## Lecture
+
+<iframe src="https://www.youtube.com/embed/8qLKNX3M97I"></iframe>
+
+## Lab 1
+
+[Sort](https://cs50.harvard.edu/x/2021/labs/3/#:~:text=Sort)
 
 ## Problem Set 3 Review 
 <div class="box" >Pset 3 Review  <iframe src="https://www.youtube.com/embed/pZgUkL2Aohs"></iframe></div>
