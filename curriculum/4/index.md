@@ -4,7 +4,7 @@ title: week 4
 
 # Week 4
 
-<iframe src="https://www.youtube.com/embed/cF6YkH-8vFk"></iframe>
+<iframe src="https://www.youtube.com/embed/NKTfNv2T0FE"></iframe>
 
 
 - Lecture
@@ -32,6 +32,15 @@ title: week 4
 [Filter](https://lab.cs50.io/code-sudan/labs/main/pset4/Filter/)
 [Recover](https://lab.cs50.io/code-sudan/labs/main/pset4/Recover/)
 Recover
+
+## Lecture
+
+<iframe src="https://www.youtube.com/embed/zXmK1pbFEZQ"></iframe>
+
+## Lab 4
+
+[Volume](https://cs50.harvard.edu/x/2021/labs/4/)
+
 ## Problem Set 4 Review 
 <div class="box" >Pset4  Review  <iframe src="https://www.youtube.com/embed/t6kxdGiH1Ys"></iframe></div>
 <div class="box" >Filter less  Review  <iframe src="https://www.youtube.com/embed/WTKXLRzXIfE"></iframe></div>
