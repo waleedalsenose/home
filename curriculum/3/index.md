@@ -39,7 +39,7 @@ title: week 3
 
 <iframe src="https://www.youtube.com/embed/8qLKNX3M97I"></iframe>
 
-## Lab 1
+## Lab 3
 
 [Sort](https://cs50.harvard.edu/x/2021/labs/3/#:~:text=Sort)
 
