@@ -4,7 +4,7 @@ title: week 9
 
 # Week 9
 
-<!-- <iframe src="https://drive.google.com/file/d/17egCCa95BOwR6Eow1hxWhZweRf0lUeiR/preview" width="640" height="480"></iframe> -->
+<iframe src="https://www.youtube.com/embed/x_c8pTW8ZUc"></iframe>
 
 
 - Lecture
