@@ -24,7 +24,9 @@ title: week 6
   - <a href="https://cdn.cs50.net/2020/fall/lectures/6/src6.zip">Zip</a>
 - Shorts
   - <a href="https://www.youtube.com/watch?v=mgBpcQRDtl0" savefrom_lm_index="0" savefrom_lm="1">Python</a>
-## Problem Set 6
+  
+  
+##Problem Set 6
 
 [Hello](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset6/hello)
 
@@ -37,6 +39,14 @@ title: week 6
 [DNA](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset6/DNA)
 
 - [Lab6](https://cs50.harvard.edu/x/2021/labs/6/)
+
+## Lecture
+
+<iframe src="https://www.youtube.com/embed/AF57jepMqM0"></iframe>
+
+## Lab 6
+
+[World Cup](https://cs50.harvard.edu/x/2021/labs/6/#:~:text=World%20Cup)
 
 ## Problem Set 6 Review 
 <!-- <div class="box" >Speller Review  <iframe src="https://www.youtube.com/embed/S_3NvpLje3M"></iframe></div>
