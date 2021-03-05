@@ -30,7 +30,14 @@ title: week 5
 
 [Speller](https://lab.cs50.io/code-sudan/labs/main/pset5/Speller/)
 
+## Lecture
+
+<iframe src="https://www.youtube.com/embed/--nxCMEJH-c"></iframe>
+
+## Lab 5
+
+[Inheritance](https://cs50.harvard.edu/x/2021/labs/5/)
 
 ## Problem Set 5 Review 
- <!-- <div class="box" >Speller Review  <iframe src="https://www.youtube.com/embed/S_3NvpLje3M"></iframe></div>
-<div class="box" >Caesar Review  <iframe src="https://www.youtube.com/embed/3BcjXzNlT0w"></iframe></div> -->
+ <div class="box" >Speller Review  <iframe src="https://www.youtube.com/embed/S_3NvpLje3M"></iframe></div>
+<div class="box" >Caesar Review  <iframe src="https://www.youtube.com/embed/3BcjXzNlT0w"></iframe></div>
