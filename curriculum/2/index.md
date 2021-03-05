@@ -36,7 +36,7 @@ title: week 2
 
 <iframe src="https://www.youtube.com/embed/lcRhPrGtJxw"></iframe>
 
-## Lab 1
+## Lab 2
 
 [Scrabble](https://cs50.harvard.edu/x/2021/labs/2/#:~:text=Scrabble)
 
