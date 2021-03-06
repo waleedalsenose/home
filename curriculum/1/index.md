@@ -14,12 +14,12 @@ title: week 1
      [Week1 Review - Code_ Sudan Program](https://www.youtube.com/embed/F-qbaeSJHAE)
 - [Notes](https://cs50.harvard.edu/x/2020/notes/1/#c)
 - Slides
-  - <a href="https://docs.google.com/presentation/d/191XW0DHWlW6WmAhYuFUYnZKUlDx0N4u4Fp81AeW-uNs/edit?usp=sharing">Google Slides</a>
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/1/lecture1.pdf">PDF</a>
+  - <a href="https://docs.google.com/presentation/d/1_BSY-aHIw8Xa__FL0HyAFoevLW7GHcTnx8j52dn0LsI/edit#slide=id.g970b0aa126_0_266">Google Slides</a>
+  - <a href="https://cdn.cs50.net/2020/fall/lectures/1/lecture1.pdf">PDF</a>
 - Source Code
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/1/src1/">Index</a>
-  - <a href="https://scratch.mit.edu/studios/25128634/">Studio</a>
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/1/src1.zip">Zip</a>
+  - <a href="https://cdn.cs50.net/2020/fall/lectures/1/src1/">Index</a>
+  - <a href="https://cdn.cs50.net/2020/fall/lectures/1/src1.pdf">PDF</a>
+  - <a href="https://cdn.cs50.net/2020/fall/lectures/1/src1.zip">Zip</a>
 - Shorts
   - <a href="https://www.youtube.com/embed/q6K8KMqt8wQ" savefrom_lm_index="0" savefrom_lm="1">Data Types</a>
   - <a href="https://www.youtube.com/embed/7apBtlEkJzk?rel=0" savefrom_lm_index="0" savefrom_lm="1">Operators</a>
