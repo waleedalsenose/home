@@ -14,7 +14,7 @@ title: week 4
      [Week4 Review - Code_ Sudan Program](https://www.youtube.com/embed/rNWRKQKPN4U)
 - [Notes](https://cs50.harvard.edu/x/2020/notes/4/)
 - Slides
-  - <a href="https://docs.google.com/presentation/d/1pHf8lId1tvO5tSHs9NJYN2H_YhvGdoLakyOFq4XQq7s/edit#slide=id.g44e0564b80_0_0">Google Slides</a>
+  - <a href="https://docs.google.com/presentation/d/16ZAYKGzoSY4PQD8qpw_FMEdx7-R3nxMnn6hrZ-3ydt8/edit#slide=id.g44dfc16ae6_0_0">Google Slides</a>
   - <a href="https://cdn.cs50.net/2020/fall/lectures/4/lecture4.pdf">PDF</a>
 - Source Code
   - <a href="https://cdn.cs50.net/2020/fall/lectures/4/src4/">Index</a>
