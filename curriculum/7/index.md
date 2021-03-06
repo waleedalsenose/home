@@ -29,7 +29,13 @@ title: week 7
 
 [Houses](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset7/Houses)
 
+## Lecture
 
+<iframe src="https://www.youtube.com/embed/zFm9OCDCIxc"></iframe>
+
+## Lab 7
+
+[Songs](https://cs50.harvard.edu/x/2021/labs/7/#:~:text=Songs)
 
 
 ## Problem Set 7 Review 
