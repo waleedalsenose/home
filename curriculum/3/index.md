@@ -14,12 +14,12 @@ title: week 3
      [Week3 Review - Code_ Sudan Program](https://www.youtube.com/embed/2FkB-enZzrc)
 - [Notes](https://cs50.harvard.edu/x/2020/notes/3/)
 - Slides
-  - <a href="https://docs.google.com/presentation/d/17eT9MaZBUByTTlpkliT8kTg7AW1820xMIQg0HDd5NCk/edit?usp=sharing">Google Slides</a>
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/3/lecture3.pdf">PDF</a>
+  - <a href="https://docs.google.com/presentation/d/1pHf8lId1tvO5tSHs9NJYN2H_YhvGdoLakyOFq4XQq7s/edit#slide=id.g44e0564b80_0_0">Google Slides</a>
+  - <a href="https://cdn.cs50.net/2020/fall/lectures/3/lecture3.pdf">PDF</a>
 - Source Code
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/3/src3/">Index</a>
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/3/src23.pdf">PDF</a>
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/3/src3.zip">Zip</a>
+  - <a href="https://cdn.cs50.net/2020/fall/lectures/3/src3/">Index</a>
+  - <a href="https://cdn.cs50.net/2020/fall/lectures/3/src23.pdf">PDF</a>
+  - <a href="https://cdn.cs50.net/2020/fall/lectures/3/src3.zip">Zip</a>
 - Shorts
   - <a href="https://www.youtube.com/watch?v=TwsgCHYmbbA" savefrom_lm_index="0" savefrom_lm="1">Linear Search</a>
   - <a href="https://www.youtube.com/watch?v=T98PIp4omUA" savefrom_lm_index="0" savefrom_lm="1">Binary Search</a>
