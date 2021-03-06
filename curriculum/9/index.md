@@ -20,7 +20,10 @@ title: week 9
   - <a href="https://cdn.cs50.net/2020/fall/lectures/9/src9/">Index</a>
   - <a href="https://cdn.cs50.net/2020/fall/lectures/9/src9.pdf">PDF</a>
   - <a href="https://cdn.cs50.net/2020/fall/lectures/9/src9.zip">Zip</a>
-
+- Shorts
+  - <a href="https://www.youtube.com/embed/X0dwkDh8kwA" savefrom_lm_index="0" savefrom_lm="1">Flask</a>
+  - <a href="https://www.youtube.com/embed/dQcBs4S-wEQ" savefrom_lm_index="0" savefrom_lm="1">Ajax</a>
+  - 
 ## Problem Set 9
 
 [Finance](https://cs50.harvard.edu/x/2021/psets/9/finance/#:~:text=Finance)
