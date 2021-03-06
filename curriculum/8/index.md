@@ -14,8 +14,8 @@ title: week 8
     [Code_ Sudan Program CS50 Week8 Review](https://www.youtube.com/embed/acUhrGTzixI)
 - [Notes](https://cs50.harvard.edu/x/2020/notes/8/)
 - Slides
-  - <a href="https://docs.google.com/presentation/d/1tH5qsKb9Hc276JyUOg_6EgD-TTTMUEinvZJIuD2lA3s/edit?usp=sharing">Google Slides</a>
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/8/lecture8.pdf">PDF</a> 
+  - <a href="https://docs.google.com/presentation/d/1I4J3nuca8unFlPT_6ilP9Xz1E1jyA-TkUZ2RIbiUbnk/edit#slide=id.g44d1f6b8b4_1_918">Google Slides</a>
+  - <a href="https://cdn.cs50.net/2020/fall/lectures/8/lecture8.pdf">PDF</a> 
 - Source Code
   - <a href="https://cdn.cs50.net/2020/fall/lectures/8/src8/">Index</a>
   - <a href="https://cdn.cs50.net/2020/fall/lectures/8/src8.pdf">PDF</a>
@@ -29,7 +29,7 @@ title: week 8
 
 <iframe src="https://www.youtube.com/embed/zxnSAyg8q0Q"></iframe>
 
-## Lab 4
+## Lab 8
 
 [Trivia](https://cs50.harvard.edu/x/2021/labs/8/)
 
