@@ -16,7 +16,7 @@ title: week 6
      [Week6 Review - Code_ Sudan Program](https://www.youtube.com/embed/8wF2OIIBQUo)
 - [Notes](https://cs50.harvard.edu/x/2021/notes/6/)
 - Slides
-  - <a href="https://docs.google.com/presentation/d/16hi8SlpyO7qS0QRKUrpm_sbwK-YfG0QTyGfEjVh9fJs/edit?usp=sharing">Google Slides</a>
+  - <a href="https://docs.google.com/presentation/d/16hi8SlpyO7qS0QRKUrpm_sbwK-YfG0QTyGfEjVh9fJs/edit#slide=id.g64077ea43c_0_277">Google Slides</a>
   - <a href="https://cdn.cs50.net/2020/fall/lectures/6/lecture6.pdf">PDF</a>
 - Source Code
   - <a href="https://cdn.cs50.net/2020/fall/lectures/6/src6/">Index</a>
