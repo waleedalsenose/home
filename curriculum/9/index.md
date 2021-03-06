@@ -23,7 +23,15 @@ title: week 9
 
 ## Problem Set 9
 
-[Finance](#)
+[Finance](https://cs50.harvard.edu/x/2021/psets/9/finance/#:~:text=Finance)
+
+## Lecture
+
+<iframe src="https://www.youtube.com/embed/FrYdrVdeQz0"></iframe>
+
+## Lab 9
+
+[Birthdays](https://cs50.harvard.edu/x/2021/labs/9/#:~:text=Birthdays)
 
 ## Problem Set 9 Review 
 <!-- <div class="box" >Speller Review  <iframe src="https://www.youtube.com/embed/S_3NvpLje3M"></iframe></div>
