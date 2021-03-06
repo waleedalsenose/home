@@ -26,7 +26,7 @@ title: week 6
   - <a href="https://www.youtube.com/watch?v=mgBpcQRDtl0" savefrom_lm_index="0" savefrom_lm="1">Python</a>
   
   
-##Problem Set 6
+## Problem Set 6
 
 [Hello](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset6/hello)
 
