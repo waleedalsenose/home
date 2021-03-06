@@ -14,7 +14,7 @@ title: week 7
     [Week7 Review - Code_ Sudan Program](https://www.youtube.com/embed/CsUbvG0_On8)
 - [Notes](https://cs50.harvard.edu/x/2021/notes/7/)
 - Slides
-  - <a href="https://docs.google.com/presentation/d/15se_MWukxRsxlZEx_MMZV6hlG-VVX3MF3V1JQpUyZ30/edit#slide=id.g656b02730f_1_0">Google Slides</a>
+  - <a href="https://docs.google.com/presentation/d/15se_MWukxRsxlZEx_MMZV6hlG-VVX3MF3V1JQpUyZ30/edit#slide=id.g656b02730f_1_128">Google Slides</a>
   - <a href="https://cdn.cs50.net/2020/fall/lectures/7/lecture7.pdf">PDF</a>
 - Source Code
   - <a href="https://cdn.cs50.net/2020/fall/lectures/7/src7/">Index</a>
