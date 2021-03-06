@@ -17,13 +17,21 @@ title: week 8
   - <a href="https://docs.google.com/presentation/d/1tH5qsKb9Hc276JyUOg_6EgD-TTTMUEinvZJIuD2lA3s/edit?usp=sharing">Google Slides</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/8/lecture8.pdf">PDF</a> 
 - Source Code
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/8/src8/">Index</a>
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/8/src8.pdf">PDF</a>
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/8/src8.zip">Zip</a>
+  - <a href="https://cdn.cs50.net/2020/fall/lectures/8/src8/">Index</a>
+  - <a href="https://cdn.cs50.net/2020/fall/lectures/8/src8.pdf">PDF</a>
+  - <a href="https://cdn.cs50.net/2020/fall/lectures/8/src8.zip">Zip</a>
 
 ## Problem Set 8
 
 [Web](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset7/Movies)
+
+## Lecture
+
+<iframe src="https://www.youtube.com/embed/zxnSAyg8q0Q"></iframe>
+
+## Lab 4
+
+[Trivia](https://cs50.harvard.edu/x/2021/labs/8/)
 
 ## Problem Set 8 Review 
 <!-- <div class="box" >Speller Review  <iframe src="https://www.youtube.com/embed/S_3NvpLje3M"></iframe></div>
