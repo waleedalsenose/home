@@ -29,29 +29,8 @@ title: Useful Links
  * Download Google Meet App [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=en_US&gl=US), [ApkPure](https://apkpure.com/google-meet-secure-video-meetings/com.google.android.apps.meetings)
  * [Meeting Link Google meet](https://meet.google.com/vut-qsnc-szg)
 
-**Code_Sudan GadUnivusefullinks**
-
-<!-- الرابط بتاع الكلالندر ممكن يضاف هنا 👇 -->
-* [Code_Sudan GadUniv Invitation for Google Calendar](https://calendar.google.com/calendar/u/0/r?cid=Y19iYjh0YjluYWJqYmhvM2l1MWNhOXVycDQ5a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
-<!-- الرابط بتاع الحضور ممكن يضاف هنا 👇 -->
-* [Code_Sudan GadUniv  Attendance Sheet](https://docs.google.com/spreadsheets/d/1AiMtTMKiaL7yRnIW4Iy99aJoMLviKXgMheNR5N_kBOY/edit?usp=sharing)
-
-<!-- الرابط بتاع قناة اليوتيوب حا يضاف هنا 👇 -->
-* [Code_Sudan GadUniv YouTube Playlist](https://www.youtube.com/playlist?list=PLdmE6s5HCPZ81oA14MgjDX6FDWSDMw6ky)
 
 
 
 
-**Code_Sudan Foundation Program Patch4 usefullinks**
-
-<!-- الرابط بتاع الكلالندر ممكن يضاف هنا 👇 -->
-* [Code_Sudan Foundation Program Patch4 Invitation for Google Calendar](https://calendar.google.com/calendar/u/2?cid=Y19wZnIybXR0cjl2amNtYXZtOXNyaWJyajNtY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
-<!-- الرابط بتاع الحضور ممكن يضاف هنا 👇 -->
-* [Code_Sudan Foundation Program Patch4  Attendance Sheet](https://docs.google.com/spreadsheets/d/19dV4LMc6w8rEJx83iLefHciFrUUQur5DuGE-57WMLgo/edit?usp=sharing)
-
-
-<!-- الرابط بتاع قناة اليوتيوب حا يضاف هنا 👇 -->
-* [Code_Sudan Foundation Program Patch4 YouTube Playlist](https://www.youtube.com/playlist?list=PLdmE6s5HCPZ_-EOIGPSmkrtjka_ozd7wr)
 
