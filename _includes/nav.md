@@ -20,7 +20,7 @@
 * [More Resources](https://code-sudan.github.io/home/curriculum/other/MoreResources/)
 ***
 * [security](https://code-sudan.github.io/home/curriculum/security/) 
-* [artficial intelligent](https://code-sudan.github.io/home/curriculum/artficialintelligent/) 
+* [artificial intelligent](https://code-sudan.github.io/home/curriculum/artificial intelligent/) 
 
 
 ***
