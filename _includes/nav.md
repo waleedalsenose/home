@@ -17,10 +17,11 @@
 * [Week 8](https://code-sudan.github.io/home/curriculum/8/) HTML,CSS,JavaScript 
 * [Week 9](https://code-sudan.github.io/home/curriculum/9/) Flask 
 * [Week 10](https://code-sudan.github.io/home/curriculum/10/) Ethics
-* [More Resources](https://code-sudan.github.io/home/curriculum/other/MoreResources/)
+* [Security](https://code-sudan.github.io/home/curriculum/security/) 
+* [Artificial Intelligent](https://code-sudan.github.io/home/curriculum/artificial intelligent/) 
+
 ***
-* [security](https://code-sudan.github.io/home/curriculum/security/) 
-* [artificial intelligent](https://code-sudan.github.io/home/curriculum/artificial intelligent/) 
+* [More Resources](https://code-sudan.github.io/home/curriculum/other/MoreResources/)
 
 
 ***
